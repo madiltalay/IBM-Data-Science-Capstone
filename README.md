@@ -1,2 +1,2 @@
-# SOS-Net
-Integration of Squeeze model with One-shot learning for Small object detection
+# IBM Data Science Professional Certificate Capstone
+This repository contains the relevant items for the IBM Data Science Professional Certificate Capstone
